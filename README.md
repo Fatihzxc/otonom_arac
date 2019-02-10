@@ -3,6 +3,7 @@
 Udacity Nanodegree
 
 ## TODO:
+- Lane Lines -> devam ediyor
 - Traffic Sign Classifier Project
 - Behavioral Cloning Project
 - Advanced Lane Finding
