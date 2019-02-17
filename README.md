@@ -2,6 +2,11 @@
 
 Udacity Nanodegree
 
+# Yapılanlar
+- Yol Şerit Çizgi Tespiti(Geliştirme Aşamasında)
+- Trafik Işaretleri Sınıflandırma(Yapılıyor)
+
+
 ## TODO:
 - Lane Lines -> devam ediyor
 - Traffic Sign Classifier Project
