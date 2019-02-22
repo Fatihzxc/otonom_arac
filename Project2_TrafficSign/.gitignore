@@ -1,3 +1,6 @@
 data/
 *.swp
 .gitignore
+model/
+model2/
+
