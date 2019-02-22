@@ -4,10 +4,10 @@ Udacity Nanodegree
 
 ## Yapılanlar
 - Yol Şerit Çizgi Tespiti(Geliştirme Aşamasında)
-- Trafik Işaretleri Sınıflandırma(Yapılıyor)
+- Trafik Işaretleri Sınıflandırma
 
 ## TODO:
-- Behavioral Cloning Project
+- Behavioral Cloning Project(Yapiliyor)
 - Advanced Lane Finding
 - Unscented Kalman Filters
 - Kidnapped Vehicle
